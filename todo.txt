@@ -1,0 +1,5 @@
+1. Create a hello world app and test on AWS lambda
+2. Figure out best data representation to handoff data between frontend and backend
+3. Create a MVP app of basic grid with char input and black box functionality
+4. Integrate OneLook for word suggestions
+...
